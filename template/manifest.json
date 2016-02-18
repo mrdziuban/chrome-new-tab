@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "{{chrome-extension-name}}",
+  "description": "Replace default new tab page in Chrome with a useful new tab page.",
+  "version": "1.0",
+
+  "chrome_url_overrides" : {
+    "newtab": "tab.html"
+  },
+  "permissions": [
+    "bookmarks"
+  ]
+}
