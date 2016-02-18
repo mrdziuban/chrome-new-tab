@@ -31,4 +31,4 @@ github-token: Your personal access token that you created above
 
 ## Customizing
 
-You can add links to resources you find useful in `tab.html`. This template provides five `section`s. Each `section` has a header and a single empty list item. Add links as list items to each section and refresh the new tab page to see the changes. You should not need to reinstall the Chrome extension when modifying `tab.html` or `tab.js`
+You can add links to resources you find useful in `tab.html`. This template provides five `section`s. Each `section` has a header and a single empty list item. Add more list items with links to the pages you care about and refresh the new tab page to see the changes. You should not need to reinstall the Chrome extension when modifying `tab.html` or `tab.js`.
