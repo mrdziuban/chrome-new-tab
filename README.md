@@ -20,7 +20,7 @@ $ khaos create chrome-new-tab <your-project-name>
 - Fill in the necessary variables to complete the template
 ```
 chrome-extension-name: The name to give the Chrome extension
-github-username: The GitHub username whose pull requests will be displayed
+github-username: The GitHub user whose pull requests will be displayed
 github-org: The GitHub organization that owns the repositories to search for pull requests in
 github-token: Your personal access token that you created above
 ```
