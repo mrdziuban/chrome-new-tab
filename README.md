@@ -27,7 +27,7 @@ github-token: Your personal access token that you created above
 - Go to the extensions page in Chrome: chrome://extensions
 - Enable the "Developer mode" checkbox in the top right
 - Click "Load unpacked extension..."
-- Navigate to your project directory, <your-project-name>, which was created above, and click "Select"
+- Navigate to your project directory, \<your-project-name\>, which was created above, and click "Select"
 
 ## Customizing
 
