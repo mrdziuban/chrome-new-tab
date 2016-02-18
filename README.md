@@ -4,7 +4,7 @@ This is a template for a Chrome browser extension that overrides the default new
 
 ## Installation
 
-- Go to your [Personal access tokens settings in GitHub](https://github.com/settings/tokens) and generate a new token that can read all of the target organization's repositories. You will need this to set up the extension.
+- Go to your [personal access tokens settings in GitHub](https://github.com/settings/tokens) and generate a new token that can read all of the target organization's repositories. You will need this to set up the extension.
 - Install [khaos](http://khaos.io) for templating
 ```bash
 $ npm install -g khaos
