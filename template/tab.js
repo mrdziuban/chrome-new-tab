@@ -113,6 +113,8 @@ function ajax(requestType, requestUrl, data, headers, successCb) {
       var repos = JSON.parse(r.response);
       lastRepoCount = repos.length;
       repos.forEach(function(repo) {
+        if (!repo.has_issues)
+          return;
         doneRequests[repo.name] = false;
         allRepos.push(repo.name);
       });
